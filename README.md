@@ -67,7 +67,7 @@ So far, we were able to scrape data currently available on Mason360-Events site 
 
 # Built With
 
-amazon-web-services
-mapbox
-python
-tableau
+- amazon-web-services
+- mapbox
+- python
+- tableau
